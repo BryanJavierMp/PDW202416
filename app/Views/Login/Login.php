@@ -16,7 +16,7 @@
             <form>
                 <input id="InpUser" type="text" placeholder="Usuario" required>
                 <input id="InpPassword" type="password" placeholder="Contraseña" required>
-                <button onclick="LoginRedirect(event)">Login</button>
+                <button onclick="FuncionRedireccionamientoLogin(event)">Login</button>
             </form>
         </div>
     </div>
